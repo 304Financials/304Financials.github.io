@@ -35,3 +35,4 @@ Credits:
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 
 Adding text
+More text
